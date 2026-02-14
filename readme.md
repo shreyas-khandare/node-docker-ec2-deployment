@@ -261,10 +261,4 @@ Shreyas
 DevOps & Cloud Engineering Practice Project
 
 
----
 
-If you'd like, I can now:
-
-- Make a shorter recruiter-focused version  
-- Make a resume bullet-point version  
-- Or create a professional architecture diagram description section for the README.
